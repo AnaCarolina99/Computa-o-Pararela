@@ -1,0 +1,1 @@
+Visto a diferença entre GPU e CPU com suas respectivas paralelizações, o tempo de paralelização é melhor quando temos um GPU de 8gb e um processador 2 cores ou quando tempo um GPU de 2gb e um processador de 8 cores?

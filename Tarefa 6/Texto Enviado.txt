@@ -1,0 +1,13 @@
+Membros do grupo: Ana Carolina Medeiros Gonçalves, Arthur Mathias Gabriel, Kaiser Gabriel, Igor Machado.
+
+
+O cérebro humano tem uma complexidade elevada em termos de arquitetura, transmissão e armazenamento de informações. Se quiséssemos simular um único cérebro humano precisaríamos de algumas centenas de milhões de Flops. Não existe consenso único porém de acordo com "https://www.scienceabc.com/humans/the-human-brain-vs-supercomputers-which-one-wins.html" 1exaFLOP é necessário para operar o cérebro humano. Já a hplusmagazine sugere um número de 36.8 petaflops de capacidade computacional em "https://hplusmagazine.com/2009/04/07/brain-chip/". A melhor aproximação já testada neste contexto vem da pesquisa da IBM  SyNAPSE que indica 38 petaflops, centenas de trilhões de operações por segundo, de poder de processamento.
+Link para diagrama da arquitetura do SyNAPSE: https://img.ibxk.com.br/materias/12555/50923.jpg?w=704
+Considerando informações da UNESCO em 2013 existem 7.8 milhões de pesquisadores de trabalho exclusivo no mundo em "https://en.unesco.org/unesco_science_report/figures". Considerando um cálculo direto deveríamos ter portanto:
+7.8 milhões x 38 petaflops (para cada cérebro de cada cientistas) resultando em um poder de processamento de (7.8 x 10^6) x (38 x 10^15) = 2,964 x 10^23.
+Quanto ao consumo de energia temos duas possibilidades. A primeira seria com uma arquitetura de supercomputadores em que temos hoje. Vamos levar em consideração o melhor super computador do mundo de acordo com TOP500 "https://www.top500.org/lists/top500/2020/11/".  Considerando uma média de 500 teraflops por segundo e um consumo de aproximadamente 30.000kW e para fins de cálculo um aumento linear no consumo de energia com aumento do processamento. Um computador capaz de emular o cérebro humano precisaria de:
+500 x 2 x 38 = 38petaflops por segundo.
+30.000 x 2 x 38 = 2.280.000kW ou 2.28GW 
+a cada segundo para simular o cérebro humano.
+Considerando as arquiteturas neuromórficas como proposto pela IBM no projeto TrueNorth reduziríamos bastante o consumo de energia. Trabalhando de forma similar ao cérebro humano. 
+Link para diagrama da arquitetura do TrueNorth: https://image.slidesharecdn.com/ibmtruenorth-141019033449-conversion-gate01/95/ibm-truenorth-8-638.jpg?cb=1413689833

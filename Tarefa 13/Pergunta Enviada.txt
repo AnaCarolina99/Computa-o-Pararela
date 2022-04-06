@@ -1,0 +1,3 @@
+O paralelismo em multitarefas é mais eficiente 
+em um processador com mais núcleos ou menos núcleos?
+E a quantidade de laços também interfere no mesmo?

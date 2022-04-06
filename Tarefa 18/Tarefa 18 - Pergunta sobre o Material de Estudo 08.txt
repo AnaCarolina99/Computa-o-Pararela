@@ -1,0 +1,2 @@
+Pelo material fornecido pelo professor, ficou bem explicado o uso do "omp simd" e seus respectivos resultados na auto-vetorização, que deixa o código mais rápido, se levar em comparação o mesmo código em sequencial. O material mostra apenas operações de
+paralelização com laço de repetição, mas não ficou muito claro o uso das condições(if,else,else if) com a auto-vetorização e com isso, gostaria de perguntar. É possível fazer uma autovetorização em uma condição(if,else,else if) usando "omp simd"?
